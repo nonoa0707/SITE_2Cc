@@ -1,19 +1,15 @@
 .body{
-    background-color: rgba(255, 7, 7, 0.733);
+    background-color: rgba(240, 130, 130, 0.733);
     color: white;
 
 }        
-.header{
+.cabecalho{ 
+    
+    background-color: rgb(255, 0, 0);
+    color: white;
     display: flex;
     justify-content: space-around;
- background-color: rgb(221, 0, 0);
-}
-
-.tx1{
- justify-content: end;
-
-}
-.tx2{
-justify-content: end;
+    align-items: center;
+    padding: 24px 0;
 
 }
