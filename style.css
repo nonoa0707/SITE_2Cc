@@ -1,4 +1,19 @@
 .body{
     background-color: rgba(255, 7, 7, 0.733);
     color: white;
+
 }        
+.header{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.tx1{
+ justify-content: end;
+
+}
+.tx2{
+justify-content: end;
+
+}
