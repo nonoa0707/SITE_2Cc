@@ -1,14 +1,12 @@
-.body{
-    background-color: rgb(255, 119, 119);
-    color: white;
-}        
-.cabecalho{ 
-    
-    background-color: rgb(255, 0, 0);
-    color: white;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
-
-}
+*{ margin: 0%; padding: 0%;}
+body{background-color: rgb(112, 0, 0);}
+.cabecalho{background-color: rgb(190, 0, 0); color: rgb(255, 255, 255);display: flex; justify-content: space-around; align-items: center; padding: 24px 0;}
+.cabecalho-imagem{width:12%;}
+.cabelho-lista-item{display: flex;margin: 0 24px; padding: 16px 0;font-size: 24px;}
+.escola-paragrafo-2{background-image: linear-gradient(rgb(82, 8, 8)); display: flex; justify-content: space-around; align-items: center;padding: 24px 0;}
+.escola-imagem{width: 20%;}
+.escola{background-image: linear-gradient(rgb(133, 0, 0), rgb(255, 0, 0)); display: flex;justify-content: space-around;align-content: center; padding:24px 0;}
+h1{color: rgb(255, 255, 255);}
+p{color: rgb(255, 255, 255);}
+h1{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+li{font-size: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
